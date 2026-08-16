@@ -1,0 +1,13 @@
+# Wine prefix directories
+wineprefix/
+.wine/
+
+# Logs & temp files
+*.log
+*.tmp
+/tmp/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+.dxvk-cache/

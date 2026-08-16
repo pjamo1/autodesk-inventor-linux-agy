@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Autodesk Inventor Professional
+Exec=/bin/bash "$SCRIPT_DIR/launch_inventor.sh"
+Icon=application-x-executable
+Type=Application
+Categories=Graphics;Engineering;3DGraphics;CAD;
+Comment=Autodesk Inventor CAD on Linux via Wine & DXVK
+Terminal=false
+StartupNotify=true
